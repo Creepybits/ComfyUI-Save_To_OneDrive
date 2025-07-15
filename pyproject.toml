@@ -1,0 +1,14 @@
+[project]
+name = "Save_To_OneDrive"
+description = "A ComfyUI node that saves images directly to OneDrive using Microsoft's free API service"
+version = "1.0.0"
+license = {text = "MIT License"}
+
+[project.urls]
+Repository = "https://github.com/Creepybits/ComfyUI-Save_To_OneDrive"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "creepybits"
+DisplayName = "Save Image to OneDrive (Creepybits)"
+Icon = "https://github.com/Creepybits/ComfyUI-Creepy_nodes/blob/a392f0cbc076a66b261b51e315fd5b5d356c2cf2/assets/cpbt.png"
