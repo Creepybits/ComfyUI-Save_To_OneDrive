@@ -1,7 +1,7 @@
 [project]
 name = "Save_To_OneDrive"
 description = "A ComfyUI node that saves images directly to OneDrive using Microsoft's free API service"
-version = "1.0.0"
+version = "1.0.1"
 license = {text = "MIT License"}
 
 [project.urls]
