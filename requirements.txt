@@ -1,0 +1,4 @@
+msal
+requests
+Pillow
+numpy

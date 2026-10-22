@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# Your sign-in token and client ID stay on your machine.
+onedrive_msal_token_cache.bin
+onedrive_config.json
